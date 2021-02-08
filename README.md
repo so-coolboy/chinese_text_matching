@@ -14,7 +14,7 @@
 - Bert模型
 
 # 数据
-数据来源于https://github.com/terrifyzhao/text_matching中使用的数据。
+数据来源于https://github.com/terrifyzhao/text_matching中使用的数据。因为是中文，因此输入的是子向量，嵌入使用keras的Embedding随机生成的，没有使用训练好的子向量。
 
 # 模型
 主要是为了学习模型的代码，因此没有进行相似的调参，有一些模型的实现与matchZoo不同，做了简化。
