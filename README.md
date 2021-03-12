@@ -8,8 +8,8 @@
 - https://github.com/terrifyzhao/text_matching
 
 # 模型
-- 基于表示的模型：DSSM模型、CDSSM模型
-- 基于交互的模型：ARC-I模型、ATRC-II模型、MatchPyramid模型、mvlstm模型
+- 基于表示的模型：DSSM模型、CDSSM模型、ARC-I模型
+- 基于交互的模型：ATRC-II模型、MatchPyramid模型、mvlstm模型
 - Attention有关的模型：BiMPM模型、ESIM模型
 - Bert模型
 
